@@ -34,11 +34,6 @@ from prettytable import PrettyTable
 from skyfield.api import load
 
 
-# first i want to read in my csv file
-# i want to be able to read in user input and give basic information from this csv file about the planets
-# additional information for mars using the API from NASA
-
-#def main():
 
 def main():
 
