@@ -4,6 +4,7 @@ Author: Klemens Kapitza
 This is my final project for the CS50Python course. It is my first dive into programming and my first small coding project.
 
 
+
 Description:
 Cosmic Insights is a Python Program that provides real-time data on the location of the International Space Staton (ISS), retrieves weather information
 from NASA's InSight lander API and allows the user to calculate the distance between two planets in our solar system using the Skyfield library. On top of that it accesses
