@@ -1,15 +1,20 @@
 # Cosmic Insights
 Author: Klemens Kapitza
 
-This is my final project for the CS50Python course submitted on 7th of October 2024. It is my first dive into programming and my first small coding project.
+Cosmic Insights: Final Project for CS50Python
+Submitted: October 7, 2024  
+**Cosmic Insights** is my first programming project and marks the culmination of my dive into Python programming during the CS50Python course.
 
 
 
 Description:
-Cosmic Insights is a Python Program that provides real-time data on the location of the International Space Staton (ISS), retrieves weather information
-from NASA's InSight lander API and allows the user to calculate the distance between two planets in our solar system using the Skyfield library. On top of that it accesses
-two csv files on planets and their satellites and provides the user with interesting information about the planet of their choice.
+Cosmic Insights is a Python program that provides real-time data and planetary insights. It features:
+- Real-time location tracking of the International Space Station (ISS) using open-notify APIs.
+- Weather information retrieval for Mars via NASA's InSight lander API.
+- Distance calculations between planets using the Skyfield library.
+- Access to CSV data for interesting facts about planets and their natural satellites.
 
+The program can be run interactively or with command-line arguments, offering flexible ways to explore our solar system.
 If the user runs the program with default settings and no additional command-line arguments, he is prompted to name a planet he wants to get more information about. Additionally
 the user can chose to get information about the satellites of this planet, and if the planet of interest is Mars, the user can also chose to retrieve weather information from NASA's InSight lander API. For this functionality the program checks if the inputted planet is in the planets.csv/satellites.csv (https://www.kaggle.com/datasets/joebeachcapital/planets-and-moons?resource=download&select=planets.csv), which contains information about the planets in our solar system, plus Pluto. If the user wants to get additional information on the satellites of this planet, the program accesses the satellites.csv and outputs information about the satellites. If the user inputs a planet that is not in our solar system/in the csv files, or if the user doesn't respond with 'y' [yes] or 'n' [no] to the question whether he wants to get further information about the weather on Mars/ the satellites, the user is prompted again.
 To get Mars weather data from the NASA's InSight lander API (https://science.nasa.gov/mission/insight/), the user first needs to create an API-key (https://api.nasa.gov) and set it as an environmental variable.
