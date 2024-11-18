@@ -1,7 +1,7 @@
 # Cosmic Insights
 Author: Klemens Kapitza
 
-This is my final project for the CS50Python course. It is my first dive into programming and my first small coding project.
+This is my final project for the CS50Python course submitted on 7th of October 2024. It is my first dive into programming and my first small coding project.
 
 
 
