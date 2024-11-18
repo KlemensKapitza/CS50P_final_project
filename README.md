@@ -7,7 +7,8 @@ Submitted: October 7, 2024
 
 
 
-Description:
+Description:  
+
 Cosmic Insights is a Python program that provides real-time data and planetary insights. It features:
 - Real-time location tracking of the International Space Station (ISS) using open-notify APIs.
 - Weather information retrieval for Mars via NASA's InSight lander API.
