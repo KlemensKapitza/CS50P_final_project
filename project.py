@@ -95,7 +95,7 @@ def user_interaction():
                     if mars_request in ["y","n"]:
                         break
                     elif mars_request not in ["y","n"]:
-                        print(("Invalid input. Please enter 'y' (yes) or 'n' (no)."))
+                        print("Invalid input. Please enter 'y' (yes) or 'n' (no).")
 
             if user_planet in planets:
                 while True:
@@ -103,7 +103,7 @@ def user_interaction():
                     if satellites_request in ["y","n"]:
                         break
                     elif satellites_request not in ["y","n"]:
-                        print(("Invalid input. Please enter 'y' (yes) or 'n' (no)."))
+                        print("Invalid input. Please enter 'y' (yes) or 'n' (no).")
                 break
 
             else:
