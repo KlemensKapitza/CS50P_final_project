@@ -4,6 +4,7 @@ Author: Klemens Kapitza
 Cosmic Insights: Final Project for CS50Python
 
 Submitted: October 7, 2024  
+
 **Cosmic Insights** is my first programming project and marks the culmination of my dive into Python programming during the CS50Python course.
 
 
