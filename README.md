@@ -6,7 +6,7 @@ Cosmic Insights: Final Project for CS50Python
 Submitted: October 7, 2024  
 
 **Cosmic Insights** is my first programming project and marks the culmination of my dive into Python programming during the CS50Python course.
-
+Before starting the CS50’s Introduction to Programming with Python course, I had only minimal experience with coding. This project reflects the skills and concepts I’ve learned and applied throughout the course.
 
 
 Description:  
