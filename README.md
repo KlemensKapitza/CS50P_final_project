@@ -1,7 +1,7 @@
 # Cosmic Insights
 Author: Klemens Kapitza
 
-Cosmic Insights: Final Project for CS50Python
+Cosmic Insights: Final Project for CS50Python (https://cs50.harvard.edu/python/2022/project/)
 
 Submitted: October 7, 2024  
 
