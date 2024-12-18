@@ -42,11 +42,9 @@ def main():
                 informative_text()
                 user_interaction()
 
-
             elif len(sys.argv) == 2 and sys.argv[1] in ["ISS", "International Space Station","Space Station"]: #location of the international space station (ISS)
                 print(ISS_international_space_station())
                 print(people_in_space())
-
 
             elif len(sys.argv) == 3: #if there are three command-line arguments: the distance between the second and third is calculated IF in ephemeris
                 skyfield_operation()
